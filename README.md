@@ -5,7 +5,7 @@ A basic utility GUI
 
 this is a basic gui  with a bunch of features
 
-#how to use 
+# how to use 
 
 copy all the code in Main.js
 
